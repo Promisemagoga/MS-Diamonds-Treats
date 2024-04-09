@@ -1237,7 +1237,7 @@
 
 @media screen and (max-width:767px) {
     .appointmentImg{
-        width: 300px !important;
+        width: 330px !important;
     }
     .header-carousel .owl-nav .owl-prev {
       display: none;
