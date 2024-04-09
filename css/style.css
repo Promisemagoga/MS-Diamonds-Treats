@@ -1237,7 +1237,15 @@
 
 @media screen and (max-width:767px) {
     .appointmentImg{
-        width: 380px !important;
+        width: 300px !important;
+    }
+    .header-carousel .owl-nav .owl-prev {
+      display: none;
+      
+    }
+
+    .header-carousel .owl-nav .owl-next {
+     display: none;
     }
 }
 
